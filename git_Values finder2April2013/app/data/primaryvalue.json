@@ -1,0 +1,28 @@
+{
+    "primaryvalue": [
+       {
+           "pvid": 1,
+           "value": "Relationships",
+       },
+       {
+           "pvid": 2,
+           "value": "Home",
+       },
+       {
+           "pvid": 3,
+           "value": "Career",
+       },
+       {
+           "pvid": 4,
+           "value": "Self",
+       },
+       {
+           "pvid": 5,
+           "value": "Health",
+       },
+       {
+           "pvid": 6,
+           "value": "Finances",
+       }
+    ]
+}

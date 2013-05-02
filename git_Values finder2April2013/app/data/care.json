@@ -1,0 +1,432 @@
+{
+    "text": "Cars",
+    "items": [{
+        "text": "How to delegate powerfully",
+        "items": [{
+            "text": "What support are you looking for mainly?  Where else could you get support from?",
+            "leaf": true
+        },{
+            "text": "I have my way, but it is not the only way.",
+            "leaf": true
+        },{
+            "text": "I could offer a solution but I would like to see the team get up to speed themselves.",
+            "leaf": true
+        },{
+            "text": "You are more in touch with the daily challenges of this project so …",
+            "leaf": true
+        },{
+            "text": "I am keen to see you develop your capacity in this area.",
+            "leaf": true
+        },{
+            "text": "What have you tried already?",
+            "leaf": true
+        },{
+            "text": "What are your concerns about taking the next step?",
+            "leaf": true
+        },{
+            "text": "How about you give it a go and let me know how you go?",
+            "leaf": true
+        },{
+            "text": "Come back and present me with three solutions.",
+            "leaf": true
+        }]
+    },{
+        "text": "How to generate more accountability",
+        "items": [{
+            "text": "Can you provide me a time frame for those outcomes please?",
+            "leaf": true
+        },{
+            "text": "How would you like us to measure your success on this?",
+            "leaf": true
+        },{
+            "text": "When can you have that finished by?",
+            "leaf": true
+        },{
+            "text": "I am concerned this project won’t be on target, what are your expectations?",
+            "leaf": true
+        },{
+            "text": "What is your understanding of what we have just discussed?",
+            "leaf": true
+        },{
+            "text": "What are your top three priorities for the week? I would like to check in on Friday morning about progress please.",
+            "leaf": true
+        },{
+            "text": "How would you like me to help you stay accountable for this?",
+            "leaf": true
+        },{
+            "text": "What do you tend to do if you realize you are not coping? What could we do instead?",
+            "leaf": true
+        },{
+            "text": "Lets send an update of progress to the rest of the team.",
+            "leaf": true
+        }]
+    },{
+        "text": "How to encourage more initiative in team members",
+        "items": [{
+            "text": "I’m keen to hear your ideas.",
+            "leaf": true
+        },{
+            "text": "I am excited to see what you can come up with.",
+            "leaf": true
+        },{
+            "text": "What have you thought about so far?",
+            "leaf": true
+        },{
+            "text": "Where do you do your best thinking?",
+            "leaf": true
+        },{
+            "text": "What would enable you to get stuck into this project?",
+            "leaf": true
+        },{
+            "text": "Where would you start on this?",
+            "leaf": true
+        },{
+            "text": "Who else would you need to talk to?",
+            "leaf": true
+        },{
+            "text": "What support do you need from me?",
+            "leaf": true
+        },{
+            "text": "I am keen to see you take this project and drive it.",
+            "leaf": true
+        }]
+    },{
+        "text": "How to stretch people further",
+        "items": [{
+            "text": "You are going great guns; I know you are capable of so much more too.",
+            "leaf": true
+        },{
+            "text": "What do you think your next step-up will look like?",
+            "leaf": true
+        },{
+            "text": "I think you are ready to take on more challenging projects",
+            "leaf": true
+        },{
+            "text": "If you were to lead this group, how would you start?",
+            "leaf": true
+        },{
+            "text": "What would hold you back from taking on the xxx project?",
+            "leaf": true
+        },{
+            "text": "Lets explore your aspirations and see what next challenge we can throw your way!",
+            "leaf": true
+        },{
+            "text": "You have become familiar with this work and I’d like to encourage you to take on more difficult challenges.",
+            "leaf": true
+        }]
+    },{
+        "text": "How to reinforce current budget constraints",
+        "items": [{
+            "text": "What’s the biggest difference you could make with what you have got?",
+            "leaf": true
+        },{
+            "text": "Is there a radical option for making things work?",
+            "leaf": true
+        },{
+     			"text":'What do you need other than resources to make progress?',
+     			"leaf": true 
+     		},
+     		{
+     			"text":'Are there any alliances you could make to achieve something different?',
+     			"leaf": true 
+     		},
+     		{
+     			"text":"What’s the most useful thing you have achieved within the current budget constraints?",
+     			"leaf": true 
+     		},
+     		{
+     			"text":"What will you have to say no to, in order to meet the current budget?",
+     			"leaf": true 
+     		},
+     		{
+     			"text":"How could you do more with less?",
+     			"leaf": true 
+     		},]
+    },{
+        "text": "How to request fewer interruptions",
+        "items": [{
+     			"text":'I am sure you are well set up to proceed. How about checking in with me again at the end of the week?',
+     			"leaf": true 
+     		},
+     		{
+     			"text":'If I weren’t here, what would you do?', 
+     			"leaf": true 
+     		},
+     		{
+     			"text":'I’d like you to make all the decisions on this project. You have the designated power for this.',
+     			"leaf": true 
+     		},
+     		{
+     			"text":'Please gather your key "text" and send them to me at the end of the day.',
+     			"leaf": true 
+     		},
+     		{
+     			"text":"I love how you keep me up to date with your thinking; Lets structure that into a regular meeting.",
+     			"leaf": true 
+     		},
+     		{
+     			"text":"Who else can you talk to if you get stuck on anything?",
+     			"leaf": true 
+     		},
+     		{
+     			"text":"I’m noticing you seem cautious to make decisions. What would enable you to charge ahead?",
+     			"leaf": true 
+     		},
+     		{
+     			"text":"I’d like to hear about high-risk issues. Can you gather your ideas over the week and see if your thinking progresses before we talk again?",
+     			"leaf": true 
+     		},]
+    },{
+        "text": "How to reinforce the vision/values",
+        "items": [{
+     			"text":'What is the bigger game we are playing?',
+     			"leaf": true 
+     		},
+     		{
+     			"text":'What are your hopes?', 
+     			"leaf": true 
+     		},
+     		{
+     			"text":'When can you have that finished by?',
+     			"leaf": true 
+     		},
+     		{
+     			"text":'What are we working towards?',
+     			"leaf": true 
+     		},
+     		{
+     			"text":"How does this work fit with the overall goal?",
+     			"leaf": true 
+     		},
+     		{
+     			"text":"What is the ultimate outcome?",
+     			"leaf": true 
+     		},
+     		{
+     			"text":"It is easy to get lost in these details, what is the vision we set?",
+     			"leaf": true 
+     		},
+     		{
+     			"text":"Do we need to restate our vision or revisit it again?",
+     			"leaf": true 
+     		},
+     		{
+     			"text":"What are the agreements we have made about this?",
+     			"leaf": true 
+     		},
+     		{
+     			"text":"What does success look like in two years time?",
+     			"leaf": true 
+     		},]
+    },{
+        "text": "How to encourage strategic thinking",
+        "items": [{
+            "text": "You have got the details in great focus; What if were to step back a bit. What would we also see?",
+            "leaf": true
+        },{
+            "text": "If you were the architect rather than the builder what would you be focusing on?",
+            "leaf": true
+        },{
+            "text": "Can you give me a scan of the wider issues affecting this issue? What’s happening outside the organisation?",
+            "leaf": true
+        },{
+            "text": "I want to zoom out for a bit. We have been in close-up too long…",
+            "leaf": true
+        },{
+            "text": "Can we get a map of the whole territory, rather than just this piece?",
+            "leaf": true
+        },{
+            "text": "What would you want to address if you were the board looking at this project?",
+            "leaf": true
+        },{
+            "text": "If you look right across the organisation what issues stand out?",
+            "leaf": true
+        },{
+            "text": "Do you know who the influencers are in the wider group?",
+            "leaf": true
+        },{
+            "text": "If you were to speak to the shared goals of all our groups what would you say?",
+            "leaf": true
+        }]
+    },{
+        "text": "How to invite more creativity",
+        "items": [
+     		{
+     			"text":'There must be other options here; where do you do your wilder thinking?',
+     			"leaf": true 
+     		},
+     		{
+     			"text":'We have been managing well for a while now. If we were to focus on some new stuff where would you start looking?', 
+     			"leaf": true 
+     		},
+     		{
+     			"text":'Lets brainstorm outside the box.',
+     			"leaf": true 
+     		},
+     		{
+     			"text":'Some of our approaches are feeling quite tired. What should we refresh?',
+     			"leaf": true 
+     		},
+     		{
+     			"text":"If we were to break some rules, we could create something new. What rules might be superfluous?",
+     			"leaf": true 
+     		},
+     		{
+     			"text":"If you were looking for a new edge to this business where would you start?",
+     			"leaf": true 
+     		},
+     		{
+     			"text":"If the market dried up tomorrow what options have we got? Lets think beyond what we are doing now.",
+     			"leaf": true 
+     		},
+     		{
+     			"text":"I want all the left of field ideas on this – just throw me some random thoughts…",
+     			"leaf": true 
+     		},
+     		{
+     			"text":"If you were (Steve Jobs, a doctor, a football coach etc) how would you approach this?",
+     			"leaf": true 
+     		},]
+    },{
+        "text": "How to build more confidence",
+        "items": [{
+            "text": "What are you most pleased with in this project?",
+            "leaf": true
+        },{
+            "text": "What did you in particular offer this project that made it successful?",
+            "leaf": true
+        },{
+            "text": "I have been delighted with the results.",
+            "leaf": true
+        },{
+            "text": "I think you are tougher on yourself than anyone else.",
+            "leaf": true
+        },{
+            "text": "How have you celebrated these successes?",
+            "leaf": true
+        },{
+            "text": "Have you had feedback from the team about this work? I imagine they have found it wonderful to work with you.",
+            "leaf": true
+        },{
+            "text": "You deserve a medal for that!",
+            "leaf": true
+        },{
+            "text": "Have you shared that success with others around here?",
+            "leaf": true
+        },{
+            "text": "I want to promote this success, are you comfortable with that?",
+            "leaf": true
+        }]
+    },{
+        "text": "How to request push back and challenge from your team",
+        "items": [{
+            "text": "I am keen to have another view of this…",
+            "leaf": true
+        },{
+            "text": "If you were to play devils advocate what would you say?",
+            "leaf": true
+        },{
+            "text": "If you were not trying to be polite what would you tell us?",
+            "leaf": true
+        },{
+            "text": "What is a riskier view on this issue?",
+            "leaf": true
+        },{
+            "text": "I am open to lots of different ideas – lets play for a little while in other ways of thinking about this…",
+            "leaf": true
+        },{
+            "text": "If you were me where would you take this issue?",
+            "leaf": true
+        },{
+            "text": "We seem to be in agreement on this, what might someone say to disagree?",
+            "leaf": true
+        },{
+            "text": "I am aware of becoming defensive about this project, but I need your critique in the mix…",
+            "leaf": true
+        },{
+            "text": "If you were chairman what questions would you be asking?",
+            "leaf": true
+        }]
+    },{
+        "text": "How to encourage better balance",
+        "items": [{
+            "text": "What would enable you to take a break now?",
+            "leaf": true
+        },{
+            "text": "We know these projects are never finished, when would be a good place to take a breather?",
+            "leaf": true
+        },{
+            "text": "What do you think your team observes about you and how you work?",
+            "leaf": true
+        },{
+            "text": "What are you doing to look after yourself and your resilience? We need you to be strong for the long run!",
+            "leaf": true
+        },{
+            "text": "Now that the immediate demands are ticked off lets look at what can be paused for a short while.",
+            "leaf": true
+        },{
+            "text": "How can you make sure your team and you can continue to work sustainably?",
+            "leaf": true
+        },{
+            "text": "What do you know about yourself working on these big projects? What have you learnt to keep yourself thriving?",
+            "leaf": true
+        }]
+    },{
+        "text": "How to help shift stuckness",
+        "items": [{
+            "text": "If you had to do just one thing on this issue what would it be?",
+            "leaf": true
+        },{
+            "text": "It does seem intractable. Lets break things into chunks",
+            "leaf": true
+        },{
+            "text": "If you were me what would you do?",
+            "leaf": true
+        },{
+            "text": "It’s okay; leadership is about finding new possibilities. What might we be missing in our thinking?",
+            "leaf": true
+        },{
+            "text": "What do you know for sure about this issue? Are there things that don’t feel stuck?",
+            "leaf": true
+        },{
+            "text": "Have you had feedback from the team about this work? I imagine they have found it wonderful to work with you.",
+            "leaf": true
+        },{
+            "text": "Lets go back to basics. What really matters the most here?",
+            "leaf": true
+        },{
+            "text": "What has to be addressed immediately and what can we wait to work through?",
+            "leaf": true
+        },{
+            "text": "On a scale of 1 to 10 where are you at now?",
+            "leaf": true
+        }]
+    },{
+        "text": "How to connect better with a difficult team member",
+        "items": [{
+            "text": "I’ve been trying outa different tack lately – how is it working for you?",
+            "leaf": true
+        },{
+            "text": "What part of our meetings is most helpful?",
+            "leaf": true
+        },{
+            "text": "Lets take a break from these issues and talk about how we are working together.",
+            "leaf": true
+        },{
+            "text": "Is there anything I have been doing that you have been struggling with?",
+            "leaf": true
+        },{
+            "text": "What has changed in the way we approach our work/your work?",
+            "leaf": true
+        },{
+            "text": "How effective have we been in achieving results and learning?",
+            "leaf": true
+        },{
+            "text": "How could we improve the way we work together?",
+            "leaf": true
+        },{
+            "text": "I am really interested in hearing your perspective.",
+            "leaf": true
+        }]
+    }]
+}
